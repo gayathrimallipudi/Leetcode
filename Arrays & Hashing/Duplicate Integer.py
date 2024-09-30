@@ -16,4 +16,6 @@ class Solution:
                 return True
             hashset.add(n)
         return False
-       
+
+# Time Complexity - O(n)
+# Space Complexity - O(n)
